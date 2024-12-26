@@ -1,5 +1,5 @@
 
-const targetDate = new Date("Dec 27, 2024 00:11:00").getTime();
+const targetDate = new Date("Jan 1, 2025 00:00:00").getTime();
 
 const timerElement = document.getElementById("timer");
 const headingElement = document.getElementById("heading");
